@@ -19,7 +19,7 @@ gem 'devise_token_auth'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'fast_jsonapi'
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'rmagick'
 gem 'kaminari'
 # Reduces boot times through caching; required in config/boot.rb
